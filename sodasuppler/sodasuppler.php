@@ -1,7 +1,7 @@
 <?php
 
 /*
-    https://open.kattis.com/problems/sodasurpler
+    Problem: https://open.kattis.com/problems/sodasurpler
 */
 
 // Read input
